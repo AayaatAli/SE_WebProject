@@ -1,0 +1,19 @@
+﻿body {
+
+    /*main code*/
+/*    background: #eecda3;
+    background: -webkit-linear-gradient(to right, #eecda3, #ef629f);
+    background: linear-gradient(to right, #eecda3, #ef629f);
+    min-height: 100vh;*/
+
+
+
+    height: 100vh;
+    position: relative;
+    background-image: url(../images/hero-bg.png);
+    background-size: cover;
+    /*background-position: bottom right;*/
+    background-repeat: no-repeat;
+
+
+}
